@@ -1,0 +1,4 @@
+/.idea/.gitignore
+/.idea/qmlSettings.xml
+/cmake-build-debug
+/.idea
